@@ -1,7 +1,7 @@
 ## Hi there! I am Putri 👋
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_putrka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/juliups) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_stupy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/petrikje_ess) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putrikajuli@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_putrka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/juliups)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putrikajuli@gmail.com) 
 
 ---
 [![](https://komarev.com/ghpvc/?username=PutrikaJuliyaS&icon=0&color=0)](https://visitcount.itsvg.in)
